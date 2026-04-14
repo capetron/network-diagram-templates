@@ -28,6 +28,18 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This work is licensed under CC-BY-SA-4.0.
 
 
+## Professional IT Documentation Services
+
+**Petronella Technology Group** helps businesses build comprehensive IT documentation:
+
+- [Managed IT Services](https://petronellatech.com/managed-it-services/) - Full IT management with documentation
+- [Network Security](https://petronellatech.com/cybersecurity/network-security/) - Secure network design
+- [Cybersecurity Assessments](https://petronellatech.com/cybersecurity-assessment/) - Documentation-driven audits
+
+[Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
+---
+
 ## About Petronella Technology Group
 
 [Petronella Technology Group (PTG)](https://petronellatech.com) has provided cybersecurity,
